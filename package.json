@@ -1,0 +1,23 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "@waves/waves-api": "git+https://github.com/pongonetworks/pongo-api.git",
+    "cli-color": "^1.3.0",
+    "nanobench": "^2.1.1",
+    "nd-promise": "^3.1.0",
+    "promiseflow": "^1.0.7",
+    "provinces": "^1.11.0"
+  },
+  "deprecated": false,
+  "description": "Pongo api testing library",
+  "homepage": "https://github.com/pongonetworks/pongo-api#readme",
+  "license": "MIT",
+  "name": "waves-playground",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pongonetworks/pongo-api.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}

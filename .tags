@@ -1,0 +1,17 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+const	/home/ram/code/pongo/node/playground/test.js	/^const assetBalancesFn = function (data) {$/;"	f	language:JavaScript
+description	/home/ram/code/pongo/node/playground/test.js	/^    description: 'The awesome waves morph token',$/;"	p	language:JavaScript	class:const
+error	/home/ram/code/pongo/node/playground/test.js	/^var error     = clc.red.bold;$/;"	v	language:JavaScript
+fee	/home/ram/code/pongo/node/playground/test.js	/^    fee: 100000000000,$/;"	p	language:JavaScript	class:const
+matcherAddress	/home/ram/code/pongo/node/playground/test.js	/^    matcherAddress: 'http:\/\/localhost:6866',$/;"	p	language:JavaScript	class:const
+minimumSeedLength	/home/ram/code/pongo/node/playground/test.js	/^    minimumSeedLength: 50$/;"	p	language:JavaScript	class:const
+name	/home/ram/code/pongo/node/playground/test.js	/^    name: WMB,$/;"	p	language:JavaScript	class:const
+networkByte	/home/ram/code/pongo/node/playground/test.js	/^    networkByte: TESTNET_BYTE,$/;"	p	language:JavaScript	class:const
+nodeAddress	/home/ram/code/pongo/node/playground/test.js	/^    nodeAddress: 'http:\/\/localhost:6861',$/;"	p	language:JavaScript	class:const
+notice	/home/ram/code/pongo/node/playground/test.js	/^var notice    = clc.cyan.bold;$/;"	v	language:JavaScript
+precision	/home/ram/code/pongo/node/playground/test.js	/^    precision: 5,$/;"	p	language:JavaScript	class:const
+quantity	/home/ram/code/pongo/node/playground/test.js	/^    quantity: 100000000,$/;"	p	language:JavaScript	class:const
+reissuable	/home/ram/code/pongo/node/playground/test.js	/^    reissuable: 'false',$/;"	p	language:JavaScript	class:const
+show	/home/ram/code/pongo/node/playground/test.js	/^var show      = clc.white.bold;$/;"	v	language:JavaScript
+timestamp	/home/ram/code/pongo/node/playground/test.js	/^    timestamp: Date.now()$/;"	p	language:JavaScript	class:const
+warn	/home/ram/code/pongo/node/playground/test.js	/^var warn      = clc.yellowBright;$/;"	v	language:JavaScript
