@@ -12,7 +12,7 @@ var notice    = clc.cyan.bold;
 var show      = clc.white.bold;
 
 console.log(clc.greenBright("-∆- PONGO NETWORK >>>"));
-/*
+
 const TESTNET_BYTE = 'L'.charCodeAt(0);
 
 const newLocalConfig = {
@@ -30,11 +30,11 @@ const newLocalConfig = {
 };
 
 console.log(newLocalConfig);
-*/
+
 //Change the configuration here.
 const Waves = WavesAPI.create(WavesAPI.TESTNET_CONFIG);
 
-//Waves.config.set(newLocalConfig);
+Waves.config.set(newLocalConfig);
 
 const PONGO = 'PONGO';
 
@@ -124,7 +124,7 @@ const issueData = {
     // This flag defines whether additional emission is possible
     reissuable: 'false',
 
-    fee: 1000000,
+    fee: 1000000000000,
     timestamp: Date.now()
 
 };
@@ -188,4 +188,5 @@ runFlow(all, {}).then(data => {
    console.log(clc.greenBold("-⎦˚◡˚⎣ -------- END  ----------"));
   done();
 });
+
 
