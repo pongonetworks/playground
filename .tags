@@ -1,17 +1,43 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+amount	/home/ram/code/pongo/node/playground/test.js	/^    amount: 10000000,$/;"	p	language:JavaScript	class:const
+amount	/home/ram/code/pongo/node/playground/test_local.js	/^    amount: 10000000,$/;"	p	language:JavaScript	class:const
+assetId	/home/ram/code/pongo/node/playground/test.js	/^    assetId: PONGO,$/;"	p	language:JavaScript	class:const
+assetId	/home/ram/code/pongo/node/playground/test_local.js	/^    assetId: PONGO,$/;"	p	language:JavaScript	class:const
+attachment	/home/ram/code/pongo/node/playground/test.js	/^    attachment: '',$/;"	p	language:JavaScript	class:const
+attachment	/home/ram/code/pongo/node/playground/test_local.js	/^    attachment: '',$/;"	p	language:JavaScript	class:const
 const	/home/ram/code/pongo/node/playground/test.js	/^const assetBalancesFn = function (data) {$/;"	f	language:JavaScript
+const	/home/ram/code/pongo/node/playground/test_local.js	/^const assetBalancesFn = function (data) {$/;"	f	language:JavaScript
 description	/home/ram/code/pongo/node/playground/test.js	/^    description: 'The awesome waves morph token',$/;"	p	language:JavaScript	class:const
+description	/home/ram/code/pongo/node/playground/test_local.js	/^    description: 'The awesome waves morph token',$/;"	p	language:JavaScript	class:const
 error	/home/ram/code/pongo/node/playground/test.js	/^var error     = clc.red.bold;$/;"	v	language:JavaScript
-fee	/home/ram/code/pongo/node/playground/test.js	/^    fee: 100000000000,$/;"	p	language:JavaScript	class:const
-matcherAddress	/home/ram/code/pongo/node/playground/test.js	/^    matcherAddress: 'http:\/\/localhost:6866',$/;"	p	language:JavaScript	class:const
-minimumSeedLength	/home/ram/code/pongo/node/playground/test.js	/^    minimumSeedLength: 50$/;"	p	language:JavaScript	class:const
-name	/home/ram/code/pongo/node/playground/test.js	/^    name: WMB,$/;"	p	language:JavaScript	class:const
-networkByte	/home/ram/code/pongo/node/playground/test.js	/^    networkByte: TESTNET_BYTE,$/;"	p	language:JavaScript	class:const
-nodeAddress	/home/ram/code/pongo/node/playground/test.js	/^    nodeAddress: 'http:\/\/localhost:6861',$/;"	p	language:JavaScript	class:const
+error	/home/ram/code/pongo/node/playground/test_local.js	/^var error     = clc.red.bold;$/;"	v	language:JavaScript
+fee	/home/ram/code/pongo/node/playground/test.js	/^    fee: 100000,$/;"	p	language:JavaScript	class:const
+fee	/home/ram/code/pongo/node/playground/test.js	/^    fee: 1000000,$/;"	p	language:JavaScript	class:const
+fee	/home/ram/code/pongo/node/playground/test_local.js	/^    fee: 100000,$/;"	p	language:JavaScript	class:const
+fee	/home/ram/code/pongo/node/playground/test_local.js	/^    fee: 1000000000000,$/;"	p	language:JavaScript	class:const
+feeAssetId	/home/ram/code/pongo/node/playground/test.js	/^    feeAssetId: PONGO,$/;"	p	language:JavaScript	class:const
+feeAssetId	/home/ram/code/pongo/node/playground/test_local.js	/^    feeAssetId: PONGO,$/;"	p	language:JavaScript	class:const
+matcherAddress	/home/ram/code/pongo/node/playground/test_local.js	/^    matcherAddress: 'http:\/\/localhost:6866',$/;"	p	language:JavaScript	class:const
+minimumSeedLength	/home/ram/code/pongo/node/playground/test_local.js	/^    minimumSeedLength: 50$/;"	p	language:JavaScript	class:const
+name	/home/ram/code/pongo/node/playground/test.js	/^    name: 'AWESTRUCK WMB',$/;"	p	language:JavaScript	class:const
+name	/home/ram/code/pongo/node/playground/test_local.js	/^    name: 'AWESTRUCK WMB',$/;"	p	language:JavaScript	class:const
+networkByte	/home/ram/code/pongo/node/playground/test_local.js	/^    networkByte: TESTNET_BYTE,$/;"	p	language:JavaScript	class:const
+nodeAddress	/home/ram/code/pongo/node/playground/test_local.js	/^    nodeAddress: 'http:\/\/localhost:6861',$/;"	p	language:JavaScript	class:const
 notice	/home/ram/code/pongo/node/playground/test.js	/^var notice    = clc.cyan.bold;$/;"	v	language:JavaScript
+notice	/home/ram/code/pongo/node/playground/test_local.js	/^var notice    = clc.cyan.bold;$/;"	v	language:JavaScript
 precision	/home/ram/code/pongo/node/playground/test.js	/^    precision: 5,$/;"	p	language:JavaScript	class:const
+precision	/home/ram/code/pongo/node/playground/test_local.js	/^    precision: 5,$/;"	p	language:JavaScript	class:const
 quantity	/home/ram/code/pongo/node/playground/test.js	/^    quantity: 100000000,$/;"	p	language:JavaScript	class:const
+quantity	/home/ram/code/pongo/node/playground/test_local.js	/^    quantity: 100000000,$/;"	p	language:JavaScript	class:const
+recipient	/home/ram/code/pongo/node/playground/test.js	/^    recipient: '3NXnVFkpGgoNwRTgF9nfKocEaTFvbbuqRg5',$/;"	p	language:JavaScript	class:const
+recipient	/home/ram/code/pongo/node/playground/test_local.js	/^    recipient: '3NXnVFkpGgoNwRTgF9nfKocEaTFvbbuqRg5',$/;"	p	language:JavaScript	class:const
 reissuable	/home/ram/code/pongo/node/playground/test.js	/^    reissuable: 'false',$/;"	p	language:JavaScript	class:const
+reissuable	/home/ram/code/pongo/node/playground/test_local.js	/^    reissuable: 'false',$/;"	p	language:JavaScript	class:const
 show	/home/ram/code/pongo/node/playground/test.js	/^var show      = clc.white.bold;$/;"	v	language:JavaScript
+show	/home/ram/code/pongo/node/playground/test_local.js	/^var show      = clc.white.bold;$/;"	v	language:JavaScript
 timestamp	/home/ram/code/pongo/node/playground/test.js	/^    timestamp: Date.now()$/;"	p	language:JavaScript	class:const
+timestamp	/home/ram/code/pongo/node/playground/test.js	/^    timestamp: Date.now()$/;"	p	language:JavaScript	class:const
+timestamp	/home/ram/code/pongo/node/playground/test_local.js	/^    timestamp: Date.now()$/;"	p	language:JavaScript	class:const
+timestamp	/home/ram/code/pongo/node/playground/test_local.js	/^    timestamp: Date.now()$/;"	p	language:JavaScript	class:const
 warn	/home/ram/code/pongo/node/playground/test.js	/^var warn      = clc.yellowBright;$/;"	v	language:JavaScript
+warn	/home/ram/code/pongo/node/playground/test_local.js	/^var warn      = clc.yellowBright;$/;"	v	language:JavaScript
